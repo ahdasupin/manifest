@@ -1,0 +1,39 @@
+{
+  "name": "AHDA MEDIA",
+  "short_name": "ahdamedia",
+  "scope": "www.ahdamedia.com",
+  "start_url": "www.ahdamedia.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "sarana media informasi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s48/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s72/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s96/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s144/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s168/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s192/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MsReHBUmXug/YL2eOpIxxCI/AAAAAAAAAHw/1kGT4l_kBdsQWd-7DwW7p7mLrAroZiQCwCNcBGAsYHQ/s512/171dbeec30e0859eadd55b4a4dd039ef.jp",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
